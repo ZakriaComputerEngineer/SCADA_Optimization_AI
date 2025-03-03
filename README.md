@@ -1,5 +1,3 @@
-# SCADA_Optimization_AI
-
 # Production Quality Optimization using Machine Learning
 
 ## 📌 Objective:
